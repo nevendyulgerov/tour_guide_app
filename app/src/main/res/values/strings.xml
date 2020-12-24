@@ -35,5 +35,12 @@
     <string name="quattro_piano_bar_description">Cozy place with community of people which seem to visit it regularly and the vibe is quite warm and nice.</string>
     <string name="piano_bar_gatsby">Piano Bar Gatsby</string>
     <string name="piano_bar_gatsby_description">Nice place to chill out with friends. Atmosphere is nice and staff is nice as well.</string>
-
+    <string name="club_plazma">Club Plazma</string>
+    <string name="club_plazma_description">Undoubtedly the best electronic music club in central Bulgaria with Funktion One audio system.</string>
+    <string name="rock_bar_download">Rock Bar Download</string>
+    <string name="rock_bar_download_description">Amazing place, real old school rock atmosphere. The music is as you can guess rock.</string>
+    <string name="club_pasha">Club Pasha</string>
+    <string name="club_pasha_description">A modern club where you will hear all types of music - house, modern pop, retro pop, modern Bulgarian hits.</string>
+    <string name="club_no_sense">Club No Sense</string>
+    <string name="club_no_sense_description">It is one of the best bars in the city with quite good and diverse music affordable alcohol and nice atmosphere.</string>
 </resources>

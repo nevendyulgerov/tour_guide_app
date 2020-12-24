@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="attractions">Attractions</string>
+    <string name="night_life">Night Life</string>
+    <string name="events">Events</string>
+    <string name="image">Image</string>
+    <string name="amphitheater">Ancient Theater of Philippopolis</string>
+    <string name="amphitheater_description">The Roman theatre is one of the world\'s best-preserved ancient Roman theatres in the world.</string>
+    <string name="old_town">Old Town</string>
+    <string name="old_town_description">The old town in Plovdiv is an architectural and historical reserve located on three of Plovdiv\'s hills.</string>
+    <string name="ethnographic_museum">Ethnographic Museum</string>
+    <string name="ethnographic_museum_description">The Plovdiv Regional Ethnographic Museum is a museum of ethnography in Plovdiv.</string>
+    <string name="alyosha">Alyosha</string>
+    <string name="alyosha_description">Alyosha is an 11-metre tall reinforced concrete statue of a Soviet soldier on Bunarjik Hill in Plovdiv.</string>
+    <string name="nebet_tepe">Nebet Tepe</string>
+    <string name="nebet_tepe_description">Nebet Tepe is one of the hills of Plovdiv where the ancient town was founded.</string>
+    <string name="dzhumaya_mosque">Dzhumaya Mosque</string>
+    <string name="dzhumaya_mosque_description">Dzhumaya Mosque is a mosque is located in the centre of Plovdiv and was built in 1363–1364.</string>
+    <string name="history_museum">History Museum</string>
+    <string name="history_museum_description">The History Museum is established in 1951, it covers the history of Plovdiv from the 15th century until today.</string>
+    <string name="singing_fountains">Singing Fountains</string>
+    <string name="singing_fountains_description">Beautiful fountains with music and light shows in the evening.</string>
+    <string name="tsar_simeon_garden">Garden of Tsar Simeon</string>
+    <string name="tsar_simeon_garden_description">A great town park with beautiful children\'s playground.</string>
+    <string name="hindliyan_house_museum">House-Museum Hindliyan</string>
+    <string name="hindliyan_house_museum_description">Am amazing example of Renaissance architecture, with unique Turkish bath inside the house.</string>
+    <string name="club_void">Club Void</string>
+    <string name="club_void_description">Great place for concerts. The club is spacious with good acoustics.</string>
+    <string name="club_fargo">Club Fargo</string>
+    <string name="club_fargo_description">Very nice night club with live Dj\'s sets. Normal prices for the quality of drinks and service offered.</string>
+    <string name="quattro_piano_bar">Quattro Piano Bar</string>
+    <string name="quattro_piano_bar_description">Cozy place with community of people which seem to visit it regularly and the vibe is quite warm and nice.</string>
+    <string name="piano_bar_gatsby">Piano Bar Gatsby</string>
+    <string name="piano_bar_gatsby_description">Nice place to chill out with friends. Atmosphere is nice and staff is nice as well.</string>
+
+</resources>
